@@ -1,0 +1,66 @@
+body {
+    background-color: whitesmoke;
+}
+
+.contacthead {
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    color: darkslategray
+}
+
+.contactinfo {
+    text-align: center;
+    font-style: oblique;
+    color: darkslategray
+}
+
+.copyright {
+    text-align: center;
+    font-family:monospace; 
+    color: darkgray;
+}
+
+.resume {
+    border-width: 2px;
+    border-style: solid;
+    color: darkslategray
+    
+}
+
+
+
+.resumetitle {
+    text-align: center;
+    font-family:serif;
+    color: black;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.resumehead {
+    color: darkblue;
+    font-weight: bold;
+    font-size: 24px
+}
+
+.resumecontent {
+ 
+    font-style: normal;
+    font-size: 17px;
+    color: darkred
+}
+
+a {
+    color: blueviolet;
+    text-decoration: none}
+a:hover {color: deeppink;text-decoration: underline}
+
+.headlink {color: white; text-decoration: none:}
+
+
+
+
+
+
+
